@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "王泽林 / 个人主页"
+title                    : "王泽林（Zelin Wang）"
 title_separator          : "-"
 name                     : &name "王泽林"
 description              : &description "一名社会科学研究者，主攻经济学与心理学"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "王泽林（Zelin Wang）"
+  name             : "王泽林"
   avatar           : "wangzelin.png"
   bio              : "一名社会科学研究生，主攻经济学与心理学，致力于通过行为角度分析经济发展的内在机制"
   location         : "中国 武汉大学"

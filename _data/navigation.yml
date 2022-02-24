@@ -6,6 +6,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Seminar"
+    url: /seminar/   
+
 #   - title: "Talks"
 #     url: /talks/   
     
@@ -17,9 +20,6 @@ main:
     
 #   - title: "Portfolio"
 #     url: /portfolio/
-      
-  - title: "Seminar"
-    url: /seminar/   
       
   - title: "My Blog"
     url: /year-archive/

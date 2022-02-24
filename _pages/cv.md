@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Wuhan University of Technology, 2020
+* B.S. in Psychology, Central China Normal University, 2020
+* M.S. in Western Economics, Wuhan University, 2023 (expected)
+* Ph.D (planning)
 
 Work experience
 ======

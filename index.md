@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "精·神·自·由"
 permalink: 
 author_profile: true
 redirect_from:

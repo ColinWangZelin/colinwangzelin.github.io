@@ -1,3 +1,13 @@
+---
+layout: archive
+title: ""
+permalink: 
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 ### 欢迎访问王泽林的个人学术主页~
 

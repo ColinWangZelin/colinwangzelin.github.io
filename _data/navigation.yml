@@ -7,10 +7,16 @@ main:
     url: /publications/
 
 #   - title: "Talks"
-#     url: /talks/    
+#     url: /talks/   
 
-  - title: "Studying"
-    url: /studying/    
+  - title: "Working"
+    url: /working/   
+    
+  - title: "Teaching"
+    url: /teaching/    
+
+  - title: "Learning"
+    url: /learning/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/

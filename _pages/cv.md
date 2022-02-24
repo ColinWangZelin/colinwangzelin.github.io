@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics (planning)
+* Ph.D in Economics (planned)
 * M.A. in Economics, Wuhan University, 2023 (expected)
 * B.S. in Psychology, Central China Normal University, 2020
 * B.A. in Economics, Wuhan University of Technology, 2020

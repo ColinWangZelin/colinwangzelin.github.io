@@ -20,7 +20,10 @@ main:
     
 #   - title: "Portfolio"
 #     url: /portfolio/
-        
+      
+  - title: "Seminar"
+    url: /seminar/   
+      
   - title: "My Blog"
     url: /year-archive/
     

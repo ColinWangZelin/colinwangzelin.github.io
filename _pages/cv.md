@@ -11,43 +11,22 @@ redirect_from:
 
 Education
 ======
-* 博士，经济学（已计划）
-(Ph.D in Economics (planned))
-* M.A. in Economics, Wuhan University, 2023 (expected)
-* B.S. in Psychology, Central China Normal University, 2020
-* B.A. in Economics, Wuhan University of Technology, 2020
+* 博士，经济学（计划）
+* 硕士，经济学，武汉大学，2023（预计）
+  * 导师：罗知，教授
+* 学士，心理学，华中师范大学，2020
+  * 学位论文：《“见世面/开阔眼界”的心理后果》
+  * 导师：温芳芳，副教授
+  * 答辩委员会：佐斌，温芳芳，刘晨
+* 学士，经济学，武汉理工大学，2020
+  * 学位论文：《互联网融合对市场结构的影响》
+  * 导师：汪芳，教授
+  * 答辩委员会：赵玉林，汪芳，刘春晖
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -56,6 +35,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* 优秀学士学位论文，武汉理工大学，2020
+* 优秀毕业生，武汉理工大学，2020

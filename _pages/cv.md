@@ -29,12 +29,6 @@ Research
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Honors and Awards
 ======
 * 优秀学士学位论文，武汉理工大学，2020

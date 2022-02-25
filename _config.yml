@@ -15,7 +15,7 @@ url                      : "https://colinwangzelin.github.io" # the base hostnam
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/ColinWangZelin/colinwangzelin.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "wangzelin.png"
+logo                     : "/images/logo.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "精·神·自·由 *Spirit and Freedom"
+title: "精·神·自·由 Spirit & Freedom"
 permalink: 
 author_profile: true
 redirect_from:

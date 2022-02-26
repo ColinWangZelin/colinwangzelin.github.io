@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% for post in site.research reversed %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
   {% include archive-single.html %}
 {% endfor %}

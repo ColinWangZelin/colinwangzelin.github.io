@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}

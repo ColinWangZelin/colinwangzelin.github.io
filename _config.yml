@@ -188,6 +188,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  learning:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  seminar:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -223,6 +232,33 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _seminar
+  - scope:
+      path: ""
+      type: seminar
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _learning
+  - scope:
+      path: ""
+      type: learning
     values:
       layout: single
       author_profile: true

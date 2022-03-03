@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "创业对经济增长的促进作用——基于不同产业的实证研究"
+collection: research
+permalink: /research/2009-number-1
+excerpt: ''
+author: '朱子婧, 范炜, 王泽林'
+date: 2019-12-01
+venue: '商业经济研究'
+citation: '朱子婧, 范炜, 王泽林. (2019). &quot;创业对经济增长的促进作用——基于不同产业的实证研究.&quot; <i>商业经济研究</i>. 2019(23).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+创业对促进我国经济增长具有重要作用，但其具体机制与影响效果还有待厘清。本文利用2007-2017年产业面板数据，以全产业、产业间不同情况设立三个假设，深入探究创业通过创新对经济增长的作用机理。结果显示，新企业数增速对当期专利产出有显著正向影响，并且在工业、信息传输、技术服务等高科技含量高的行业中创业能显著拉动经济增长。为解释这一结果，文章进一步对不显著的行业进行固定效应回归，结果显示在这些行业中创业对创新的作用效果也同样不显著。在实证分析结果的基础上，本文提出应支持新兴产业、提升技术创新产业化能力、积极推动“大众创业，万众创新”。
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/王泽林（2019）创业对经济增长的促进作用——基于不同产业的实证研究.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 朱子婧, 范炜, 王泽林. (2019). &quot;创业对经济增长的促进作用——基于不同产业的实证研究.&quot; <i>商业经济研究</i>. 2019(23).

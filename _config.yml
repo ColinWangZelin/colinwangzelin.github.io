@@ -197,6 +197,9 @@ collections:
   seminar:
     output: true
     permalink: /:collection/:path/
+  course:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -223,6 +226,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+ # _course
+  - scope:
+      path: ""
+      type: course
     values:
       layout: single
       author_profile: true

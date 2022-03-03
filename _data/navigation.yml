@@ -5,7 +5,10 @@ main:
 
   - title: "Research"
     url: /research/
-
+    
+  - title: "Course"
+    url: /course/  
+    
   - title: "Seminar"
     url: /seminar/   
 
@@ -14,9 +17,6 @@ main:
     
 #   - title: "Teaching"
 #     url: /teaching/   
-    
-  - title: "Course"
-    url: /course/  
     
 #  - title: "Learning"
 #    url: /learning/    

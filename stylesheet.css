@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+/* 作者：王泽林 */
+
+/*--------------------字体设置--------------------*/
+
+@font-face {
+	font-family: "隶书";
+	src: url(font/SIMLI.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "方正小标宋简体";
+	src: url(font/方正小标宋简体.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "华文行楷";
+	src: url(font/STXINGKA.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "华文新魏";
+	src: url(font/STXINWEI.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/*--------------------通用设置--------------------*/
+
+body {
+	width: 980px;
+	height: 685px;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+
+a {
+	text-decoration: none;
+	color: #006db1;
+}
+
+h1 {
+	font-family: "华文新魏";
+	font-size: 28px;
+}
+
+h2 {
+	font-family: "华文新魏";
+	font-size: 24px;
+}
+
+h3 {
+	font-family: "华文新魏";
+	font-size: 20px;
+}
+
+[lang]:lang(cn) {
+	font-family: "宋体";
+}
+
+[lang]:lang(en) {
+	font-family: "Times New Roman";
+}
+
+/*--------------------Header设置--------------------*/
+
+header {
+    float: left;
+	width: 280px;
+	padding-top: 24px;
+	text-align: center;
+}
+
+header p {
+	font-family: "隶书";
+	font-size: 18px;
+	color: #94070A;
+	line-height: 24px;
+}
+
+header img {
+	width: 70%;
+	border-radius: 50%;
+	margin-top: 24px;
+}
+
+.motto {
+	margin-top: 32px;
+	line-height: 32px;
+	font-family: "方正小标宋简体";
+	font-size: 18px;
+}
+
+/*--------------------Section设置--------------------*/
+
+section {
+    float: right;
+	width: 660px;
+}
+
+section p {
+	text-align: justify;
+	line-height: 22px;
+	font-family: "宋体";
+	font-size: 16px;
+	color: black;
+}
+
+section a {
+	font-weight: bold;
+}
+
+.title {
+	font-family: "隶书";
+	font-size: 28px;
+	text-align: center;
+	padding-top: 12px;
+}
+
+.content {
+	height: 600px;
+	overflow-y: scroll;
+	border-color: black;
+	border-style: double;
+	margin: 16px 0;
+	padding: 0 12px;
+}
+
+.copyright {
+	font-family: "华文新魏";
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+}
+/*--------------------Footer设置--------------------*/
+
+
+
+
+
